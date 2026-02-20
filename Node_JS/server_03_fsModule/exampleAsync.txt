@@ -1,0 +1,1 @@
+Async way of writing in a file
