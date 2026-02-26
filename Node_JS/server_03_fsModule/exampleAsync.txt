@@ -1,1 +1,1 @@
-Async way of writing in a file
+Employment data by industry for 2011 and 2014 by city for Great Britain. The 1-digit sheet has data aggregated at the industry level whereas the 2-digit sheet aggregates the data at the sub-industry level. Source: Economic Modeling Specialists Inc (EMSI)
